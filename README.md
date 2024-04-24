@@ -13,7 +13,7 @@ Currently, I'm pursuing a Master of Data Science degree at UBC.
 #### Skills & Tools
 
 ##### 🌐 Languages
-Python | R
+Python | R | SQL
 
 ##### 💾 Databases
 Postgres | MySQL | MongoDB
