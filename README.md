@@ -4,7 +4,7 @@
 
 I'm a passionate data science student with a keen interest in applying data-driven approaches to the field of marketing. I've always been intrigued by the synergy between data and marketing strategies, deriving impactful insights from data to drive growth for companies.
 
-I hold a Ph.D. in Business Administration and Marketing, where I cultivated expertise in marketing and market research. My journey has taken me into the realm of data, where I've equipped myself with new methodologies and acquired diverse skills.
+I hold a graduate degree in Business Administration and Marketing, where I cultivated expertise in marketing and market research. My journey has taken me into the field of data, where I've equipped myself with new methodologies and acquired diverse skills.
 
 #### 🚀 What I Do
 
