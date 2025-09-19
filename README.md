@@ -9,7 +9,7 @@ I also completed a **Master of Data Science at UBC**, focusing on the intersecti
 
 ---
 
-#### 🚀 What I Do
+####  What I Do
 
 - Design and analyze **marketing experiments** (A/B tests, multivariate tests) to optimize campaigns  
 - Apply **machine learning models** to customer and market data  
@@ -18,35 +18,35 @@ I also completed a **Master of Data Science at UBC**, focusing on the intersecti
 
 ---
 
-#### 🧰 Skills & Tools
+####  Skills & Tools
 
-##### 🌐 Languages
+#####  Languages
 Python | R | SQL  
 
-##### 💾 Databases & Data Tools
+#####  Databases & Data Tools
 Postgres | MySQL | MongoDB | Snowflake | dbt  
 
-##### 🧠 ML/DL Frameworks
+#####  ML/DL Frameworks
 NumPy | Pandas | SciPy | scikit-learn | Clustering | TensorFlow | PyTorch  |NLP | Topic Modeling | 
 
-##### 📊 Data Visualization
+#####  Data Visualization
 Matplotlib | seaborn | Altair | Tableau | Power BI  
 
-##### 📈 Statistics & Analytics
+#####  Statistics & Analytics
 Regression Analysis | Causal Inference | Experimental Design | Time Series Analysis  
 
-##### 🛠️ Other Tools
+#####  Other Tools
 Git | GitHub | GitHub Actions | Jupyter Notebook | RStudio | Visual Studio Code | Docker  
 
 ---
 
-#### 📚 What I'm Learning
+####  What I'm Learning
 
 - **Reinforcement Learning (RL) in business and marketing** applications    
 
 ---
 
-#### 📫 Get in Touch
+####  Get in Touch
 
 📧 Email: masnorouzii@gmail.com  
 📱 LinkedIn: [Connect with me](https://www.linkedin.com/in/ms-norouzi/)  
