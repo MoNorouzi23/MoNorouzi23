@@ -2,38 +2,57 @@
 
 #### About Me
 
-I'm a passionate data science student with a keen interest in applying data-driven approaches to the field of marketing. I've always been intrigued by the synergy between data and marketing strategies, deriving impactful insights from data to drive growth for companies.
+I'm a **Marketing Data Scientist in the MedTech industry** with a strong passion for applying **data-driven approaches to business and marketing**. I’m fascinated by how data can uncover patterns, guide decisions, and create strategies that drive measurable growth.
 
-I hold a graduate degree in Business Administration and Marketing, where I cultivated expertise in marketing and market research. My journey has taken me into the field of data, where I've equipped myself with new methodologies and acquired diverse skills.
+I hold a graduate degree in **Business Administration and Marketing**, where I built expertise in market research and customer behavior. My journey later expanded into **data science**, combining business acumen with analytical and technical skills.  
+I also completed a **Master of Data Science at UBC**, focusing on the intersection of data, marketing, and business decision-making.
+
+---
 
 #### 🚀 What I Do
 
-Currently, I'm pursuing a Master of Data Science degree at UBC.
+- Design and analyze **marketing experiments** (A/B tests, multivariate tests) to optimize campaigns  
+- Apply **machine learning models** to customer and market data  
+- Build **dashboards and visualizations** (Tableau, Power BI, Dash) to communicate insights  
+- Use **causal inference and advanced statistics** to measure the true impact of marketing strategies  
 
-#### Skills & Tools
+---
+
+#### 🧰 Skills & Tools
 
 ##### 🌐 Languages
-Python | R | SQL
+Python | R | SQL  
 
-##### 💾 Databases
-Postgres | MySQL | MongoDB
+##### 💾 Databases & Data Tools
+Postgres | MySQL | MongoDB | Snowflake | dbt  
 
 ##### 🧠 ML/DL Frameworks
-NumPy | Pandas | SciPy | scikit-learn | Altair | Matplotlib | seaborn
+NumPy | Pandas | SciPy | scikit-learn | Clustering | TensorFlow | PyTorch  |NLP | Topic Modeling | 
 
-##### 🛠️ Other Tools & Technologies
-Git | GitHub | GitHub Actions | Jupyter Notebook | RStudio | Visual Studio | Docker
+##### 📊 Data Visualization
+Matplotlib | seaborn | Altair | Tableau | Power BI  
+
+##### 📈 Statistics & Analytics
+Regression Analysis | Causal Inference | Experimental Design | Time Series Analysis  
+
+##### 🛠️ Other Tools
+Git | GitHub | GitHub Actions | Jupyter Notebook | RStudio | Visual Studio Code | Docker  
+
+---
 
 #### 📚 What I'm Learning
 
-I'm currently delving into unsupervised machine learning, deep learning, dashboard creation, and more.
+- **Reinforcement Learning (RL) in business and marketing** applications    
+
+---
 
 #### 📫 Get in Touch
 
 📧 Email: masnorouzii@gmail.com  
-📱 LinkedIn: [Connect with me](https://www.linkedin.com/in/ms-norouzi/)
+📱 LinkedIn: [Connect with me](https://www.linkedin.com/in/ms-norouzi/)  
 
-Let's engage in discussions about leveraging data applications in marketing and business fields. I'm enthusiastic about collaborating and networking!
+I’m always excited to discuss ideas at the intersection of **data, marketing, and business strategy**. Let’s connect and collaborate!
+
 
 
 <!--
